@@ -1,0 +1,3 @@
+omit =
+    functional_tests.py
+    */wsgi.py
