@@ -6,8 +6,3 @@ install: "pip install -r requirements.txt"
 # command to run tests
 script: 
   - "python manage.py test"
-# deploy with heroku
-deploy:
-  provider: heroku
-  api-key: 8e1d8bab-0a1d-484c-ba24-8b8f4bfb2d9f
-  app : upendra243-tdd-test
