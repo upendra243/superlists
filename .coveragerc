@@ -1,3 +1,4 @@
-omit =
-    functional_tests.py
-    */wsgi.py
+[report]
+omit=
+     functional_tests.py
+     *wsgi.py
